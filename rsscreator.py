@@ -114,7 +114,7 @@ def rsscreator(xmllist,outputfile):
   filerss.write("      <title>The Jodcast</title>\n")
   filerss.write('      <link>https://www.jodcast.net/</link>\n')
   filerss.write('    </image>\n')
-  filerss.write('    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 2.0 England &amp; Wales</copyright>\n')
+  filerss.write('    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</copyright>\n')
   filerss.write('    <description>'+description+'</description>\n')
   filerss.write('    <language>en</language>\n')
   filerss.write('    <pubDate>'+pubDate+'</pubDate>\n')
